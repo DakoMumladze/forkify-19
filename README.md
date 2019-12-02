@@ -1,2 +1,2 @@
-# forkify-19
+# forkify
 JavaScript course project
